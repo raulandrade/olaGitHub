@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Fernando Mateus de Oliveira
+ *
+ */
 public class OlaGitHub {
 
 	/**
